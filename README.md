@@ -10,8 +10,6 @@ A real-time private chat app where users can create and join chat rooms using a 
 - 💬 Real-time messaging via **WebSockets**
 - 🧨 Rooms **self-destruct** when empty
 - ⚡ Built with performance and simplicity in mind
-- 🧠 Optional: Auto-expire inactive rooms, ephemeral messages, anonymous nicknames
-
 ---
 
 ## 🧱 Tech Stack
